@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://openshift-ireland.com"
+baseURL = "https://uki-developers-redhat.com"
 languageCode = "en-us"
-title = "OpenShift Ireland | User Group"
+title = "Red Hat Developer Advocacy | UK & Ireland"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -45,7 +45,7 @@ disqusShortname = ""
 
   # main menu
     [[menu.main]]
-  name = "OpenShift"
+  name = "Usergroups"
   URL = "ocp"
   weight = 1
 
@@ -86,13 +86,13 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "OpenShift Ireland User Group"
+description = "Red Hat Developer Advocacy | UK & Ireland"
 author = "Florian Moss"
 # Google Analitycs
 googleAnalyticsID = "G-VE878Y7TJY"
 # Contact Information
-email = "openshift-ireland@redhat.com"
-location = "Dublin, Ireland"
+email = "uki-developers@redhat.com"
+location = "UK & Ireland"
 # copyright
 copyright = ""
 
