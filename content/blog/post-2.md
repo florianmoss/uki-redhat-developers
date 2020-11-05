@@ -1,7 +1,8 @@
 ---
-title: "Post 1 - Content to be added"
+title: "Post 2 - Content to be added"
 date: 2020-10-19T10:07:47+06:00
 draft: false
+
 
 # post thumb
 image: "images/post/logo.png"
@@ -11,7 +12,7 @@ description: "Some desc...."
 
 # taxonomies
 categories:
-  - "Meeting"
+  - "New Cat"
 tags:
   - "Introduction"
 

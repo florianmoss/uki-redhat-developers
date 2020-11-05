@@ -46,13 +46,8 @@ disqusShortname = ""
   # main menu
     [[menu.main]]
   name = "Usergroups"
-  URL = "ocp"
+  URL = "usergroups"
   weight = 1
-
-  [[menu.main]]
-  name = "About Us"
-  URL = "about"
-  weight = 2
 
   [[menu.main]]
   name = "Blog"
@@ -65,11 +60,6 @@ disqusShortname = ""
   weight = 4
 
   # footer menu
-  [[menu.footer]]
-  name = "About Us"
-  URL = "about"
-  weight = 1
-
   [[menu.footer]]
   name = "Blog"
   URL = "blog"

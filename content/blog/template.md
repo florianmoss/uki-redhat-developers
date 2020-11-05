@@ -11,12 +11,12 @@ description: "this is meta description"
 
 # taxonomies
 categories:
-  - "Android And Gaming"
+  - ""
 tags:
   - "Template"
   - "Sample"
 
-# post type
+# post type: 'post' or 'featured'
 type: ""
 ---
 

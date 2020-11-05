@@ -1,7 +1,8 @@
 ---
-title: "Post 1 - Content to be added"
+title: "Another featured post"
 date: 2020-10-19T10:07:47+06:00
 draft: false
+
 
 # post thumb
 image: "images/post/logo.png"
@@ -11,12 +12,12 @@ description: "Some desc...."
 
 # taxonomies
 categories:
-  - "Meeting"
+  - "New Cat"
 tags:
   - "Introduction"
 
 # post type
-type: "post"
+type: "featured"
 ---
 
 Sample Content
