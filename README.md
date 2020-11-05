@@ -165,7 +165,10 @@ Markdown | Less | Pretty
 ![image](../../images/post/post-1.jpg)
 
 <hr>
-##### YouTube
 
+##### YouTube Video
 {{< youtube rAsfStufbTw >}}
 ```
+
+# Style changes
+If you encounter any issues with styling, you can make changes under `themes/liva/hugo/assets/scss/_variables.scss`.
