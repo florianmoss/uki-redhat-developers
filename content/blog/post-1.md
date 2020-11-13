@@ -17,6 +17,9 @@ tags:
 
 # post type
 type: "post"
+
+# EXTERNAL LINK
+external: "http://www.yahoo.com"
 ---
 
 Sample Content

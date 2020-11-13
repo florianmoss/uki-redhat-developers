@@ -17,7 +17,11 @@
             {{ end }}
         </div>
         <p class="card-text">{{ .Summary }}</p>
-        <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a>
+        {{ if (isset .Params "external") }}
+        <a href="{{ .Params.external }}" class="btn btn-outline-primary">read more</a>
+        {{ else }}
+        <a href="{{ .Permalink  }}" class="btn btn-outline-primary">read more</a>
+        {{ end }}
         </div>
     </article>
 </div>
