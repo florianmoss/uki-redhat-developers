@@ -1,25 +1,27 @@
 ---
-title: "Post 1 - Content to be added"
-date: 2020-10-19T10:07:47+06:00
+title: "The New Kubernetes Native"
+date: 2020-07-19
 draft: false
+author: "Graeme Colman"
 
 # post thumb
-image: "images/post/logo.png"
+image: "https://miro.medium.com/max/700/0*vZUQydM9ZYRclYrx"
 
 # meta description
-description: "Some desc...."
+description: "Remember when 12 factor was the goto standard of cloud computing?"
 
 # taxonomies
 categories:
-  - "Meeting"
+  - "Openshift"
 tags:
-  - "Introduction"
+  - "CamelK"
+  - "Quarkus"
+  - "Kubernetes"
+  - "Tekton"
 
 # post type
 type: "post"
 
 # EXTERNAL LINK
-external: "http://www.yahoo.com"
+external: "https://medium.com/@graemecolman/the-new-kubernetes-native-d19dd4ae75a0"
 ---
-
-Sample Content

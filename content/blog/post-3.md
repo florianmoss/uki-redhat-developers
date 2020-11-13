@@ -1,23 +1,25 @@
 ---
-title: "Welcome to the Red Hat UK & Ireland Developer Advocacy"
-date: 2020-10-19T10:07:47+06:00
+title: "Serverless on OpenShift"
+date: 2020-08-26
 draft: false
-
+author: "Al Graham"
 
 # post thumb
-image: "images/post/logo.png"
+image: "https://tinyexplosions.com/images/serverless-stats-cold.png"
 
 # meta description
-description: "Some desc...."
+description: "Serverless is big these days. Everyone wants to use the likes of AWS's Lambda to save some costs thanks to not paying for idle processes, to help with scaling, and cos it's the cool thing to do."
 
 # taxonomies
 categories:
-  - "New Cat"
+  - "Openshift"
 tags:
-  - "Introduction"
+  - "Serverless"
+  - "Operator"
 
 # post type
-type: "featured"
----
+type: "post"
 
-Sample Content
+# EXTERNAL LINK
+external: "https://tinyexplosions.com/posts/serverless/"
+---

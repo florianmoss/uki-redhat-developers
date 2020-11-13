@@ -1,23 +1,25 @@
 ---
-title: "Post 3 - Content to be added"
-date: 2020-10-19T10:07:47+06:00
+title: "Guide to OpenShift Pipelines Part 1 - Introducing OpenShift Pipelines"
+date: 2020-08-04
 draft: false
-
+author: "Mark Roberts"
 
 # post thumb
-image: "images/post/logo.png"
+image: "https://www.openshift.com/hubfs/Google%20Drive%20Integration/Part%201%20-%20Introducing%20OpenShift%20Pipelines.jpeg"
 
 # meta description
-description: "Some desc...."
+description: "OpenShift Pipelines is a Continuous Integration / Continuous Delivery (CI/CD) solution based on the open source Tekton project."
 
 # taxonomies
 categories:
-  - "New Cat"
+  - "Openshift"
 tags:
-  - "Introduction"
+  - "Pipelines"
+  - "Tekton"
 
 # post type
 type: "post"
----
 
-Sample Content
+# EXTERNAL LINK
+external: "https://www.openshift.com/blog/guide-to-openshift-pipelines-part-1-introducing-openshift-pipelines"
+---

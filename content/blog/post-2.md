@@ -1,23 +1,25 @@
 ---
-title: "Post 2 - Content to be added"
-date: 2020-10-19T10:07:47+06:00
+title: "The Inside Playbook"
+date: 2020-08-04
 draft: false
-
+author: "Patrick Harrison"
 
 # post thumb
-image: "images/post/logo.png"
+image: "https://www.ansible.com/hs-fs/hubfs/plugin%20blog%20image%205.png?width=1525&name=plugin%20blog%20image%205.png"
 
 # meta description
-description: "Some desc...."
+description: "Using an Inventory Plugin from a Collection in Ansible Tower"
 
 # taxonomies
 categories:
-  - "New Cat"
+  - "Ansible"
 tags:
-  - "Introduction"
+  - "Inventory"
+  - "Playbooks"
 
 # post type
 type: "post"
----
 
-Sample Content
+# EXTERNAL LINK
+external: "https://www.ansible.com/blog/using-an-inventory-plugin-from-a-collection-in-ansible-tower"
+---

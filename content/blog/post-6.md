@@ -1,6 +1,6 @@
 ---
-title: "Another featured post"
-date: 2020-10-19T10:07:47+06:00
+title: "Welcome to the Red Hat Developer Site for the UK & Ireland!"
+date: 2020-10-19
 draft: false
 
 
