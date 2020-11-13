@@ -17,10 +17,17 @@ $gray: #fff;
     background-color: #000;
 }
 
-.text-primary {
+.text-primary, .navbar-white .navbar-nav .nav-link {
     font-weight: 900;
 }
 
+.pagination .page-link {
+    background: #000 !important;
+}
+
+.pagination .page-item .page-link {
+    color: #fff !important;
+}
 // Font Variables
 $primary-font: 'Raleway', sans-serif;
 $icon-font: 'themify';
