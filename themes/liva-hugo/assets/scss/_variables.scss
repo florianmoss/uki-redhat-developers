@@ -28,6 +28,19 @@ $gray: #fff;
 .pagination .page-item .page-link {
     color: #fff !important;
 }
+
+.content table{
+    background: #000 !important;
+    border: none !important;
+}
+
+td, th {
+    background: #000 !important;
+}
+
+.content table th, .content table td {
+    border: none !important;
+}
 // Font Variables
 $primary-font: 'Raleway', sans-serif;
 $icon-font: 'themify';

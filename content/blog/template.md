@@ -13,8 +13,8 @@ description: "this is meta description"
 categories:
   - ""
 tags:
-  - "Template"
-  - "Sample"
+  - ""
+  - ""
 
 # post type: 'post' or 'featured'
 type: ""

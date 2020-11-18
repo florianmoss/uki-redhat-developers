@@ -12,7 +12,7 @@ description: "Some desc...."
 
 # taxonomies
 categories:
-  - "New Cat"
+  - ""
 tags:
   - "Introduction"
 
