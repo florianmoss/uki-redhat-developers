@@ -16,7 +16,10 @@ Get repo and start development server:
 	hugo -D server
 ```
 
-# Adding content
+# Adding content - Automatically 
+Simply submit a new response to this [form](https://docs.google.com/forms/d/e/1FAIpQLSfdqhggSHTDHcXGvrOJzi4uqd2NPy3pdXF69kuUtYQLP-lGEQ/viewform?usp=sf_link). Every response will trigger a new build and automatically create a new blog post. Nothing else to do.
+
+# Adding content - Manually
 
 If you want to add new content in the form of a Blog post, you can do so by adding a new post to `/uki-redhat-developers/content/blog`. Simply add a new post with the next available Integer. Each blog post has metadata in the form of:
 ```
