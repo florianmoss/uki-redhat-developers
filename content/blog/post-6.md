@@ -1,14 +1,14 @@
 ---
 title: "Welcome to the Red Hat Developer Site for the UK & Ireland!"
-date: 2020-10-19
+date: 2020-11-19
 draft: false
-
+author: "Graeme Colman"
 
 # post thumb
-image: "images/post/logo.png"
+image: "images/front.png"
 
 # meta description
-description: "Some desc...."
+description: ""
 
 # taxonomies
 categories:
@@ -18,6 +18,6 @@ tags:
 
 # post type
 type: "featured"
----
 
-Sample Content
+external: "/contact"
+---
