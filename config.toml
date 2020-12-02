@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://flamboyant-mcclintock-23455b.netlify.app"
+baseURL = "https://ukidevelopers.co.uk"
 languageCode = "en-us"
 title = "Red Hat Developer Advocacy | UK & Ireland"
 theme = "liva-hugo"
