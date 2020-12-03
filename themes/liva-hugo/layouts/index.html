@@ -84,19 +84,23 @@
 </section>
 <!-- /recent post -->
 
+<div class="mt-5">
+      {{ partial "filterCategory.html" . }}
+  </div>
+     
 <!-- blog post -->
 
-<section class="section pb-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mb-5 mb-lg-0">
+<section >
+  <div class="container ">
+    <div class="row ">
+      <div class="col-lg-8 mb-5 mb-lg-0 small-post-border">
         <div class="row">
           {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
           {{ range $paginator.Pages }}
           <div class="col-md-6 mb-4">
-            <article class="card">
+            <article class="card"  >
               {{ if .Params.Image }}
-              <img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
+              <img src="{{ .Params.Image | absURL }}" class="card-img-top" style="width:200px " alt="{{ .Title | markdownify }}">
               {{ end }}
               <div class="card-body px-0">
                 {{ range .Params.Categories }}
@@ -126,10 +130,16 @@
           </div>
           {{ end }}
         </div>
+
       </div>
       <!-- sidebar -->
-      {{ partial "sidebar.html" . }}
+      {{ partial "quickReads.html" . }}
       <!-- /sidebar -->
+
+      <!-- bottom page filter -->
+      <div class="col-12 mt-5">
+        {{ partial "filterTags.html" . }}
+      </div>      
 
       <!-- pagination -->
       <div class="col-12 mt-5">
