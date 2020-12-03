@@ -8,7 +8,7 @@ author: "Florian Moss"
 image: "https://miro.medium.com/max/496/1*CeUge97qOdTiGZ6IvgK7IQ.png"
 
 # meta description
-description: ""
+description: "A talk on Kubernetes and Serverless and how everyone, even with no prior knowledge about Kubernetes, can utilize those technologies by using OpenShift "
 
 # taxonomies
 categories:
