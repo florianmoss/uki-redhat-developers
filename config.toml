@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://inspiring-poitras-beb379.netlify.app"
+baseURL = "https://ukidevelopers.co.uk"
 languageCode = "en-us"
 title = "Red Hat Developer Advocacy | UK & Ireland"
 theme = "liva-hugo"
