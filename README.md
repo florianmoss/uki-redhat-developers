@@ -1,6 +1,6 @@
 # General
 
-Link to the Site: https://flamboyant-mcclintock-23455b.netlify.app
+Link to the Site: https://ukidevelopers.co.uk
 
 All merges into master will trigger a new build. Pull requests will be merged by Graeme in the future, Florian will merge them before we go live.
 
