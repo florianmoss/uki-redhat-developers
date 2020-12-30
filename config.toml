@@ -75,7 +75,7 @@ home = "Home"
 description = "Red Hat Developer Advocacy | UK & Ireland"
 author = "Florian Moss"
 # Google Analitycs
-googleAnalyticsID = "G-F9K738PKTJ"
+googleAnalyticsID = "UA-186141553-1"
 # Contact Information
 email = "uki-developers@redhat.com"
 location = "UK & Ireland"
