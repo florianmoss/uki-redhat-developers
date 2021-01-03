@@ -1,5 +1,5 @@
 ---
-title: "Red Hat Developer Advocacy UK & Ireland"
+title: "UK & Ireland Developers @ Red Hat"
 date: 2019-10-29T13:49:23+06:00
 draft: false
 
@@ -10,13 +10,13 @@ description: "this is meta description"
 type : "contact"
 ---
 
-Welcome to the Red Hat Developer Advocacy site for the UK and Ireland! Developers are at the heart of everything we do. They are the creative engine of all organisations with which we work, and they turn business ideas into revenue, through the applications they create. 
-
-### The Mission 
-New technology is great. The problem with new technology is, though, that someone has to discover it first. And then learn and understand it. We want to use this site to make you aware of great tools and technologies that are out there but also help you to understand them. 
+Welcome to the developer site for the UK and Ireland! Developers are at the heart of everything we do. They are the creative engine of all organisations with which we work, and they turn business ideas into revenue, through the applications they create. 
 
 ### Who we are?
-The developer advocates in the UK and Ireland are a broad collection of Red Hat Solution Architects, Consultants and Domain Specialists with a broad interest in tools and technologies - ranging from Edge Computing to Home Labs and languages like Java, Python and JavaScript.
+This UK and Ireland group is a broad collection of develoeprs, architects, consultants, specialists, engineers and more with a broad interest in tools and technologies - ranging from Edge Computing to Home Labs and languages like Java, Python and JavaScript. We all love using, writing and talking about technology and here's the place where we collectively show what we have been talking about. 
+
+### The Mission 
+New technology is great. The problem with new technology is, though, that someone has to discover it first. And then learn and understand it. We want to use this site to make you aware of things we are collectively talking about, great tools and technologies that are out there but also help you to understand them. 
 
 ### OpenShift Ireland UserGroup
 Our Irish team runs a quarterly OpenShift UserGroup meetup in Dublin. If you are interested in finding out more or joining the event, have a look [>here<](https://openshift-ireland.com/).
