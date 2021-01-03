@@ -11,7 +11,7 @@ description: "Have you seen our youtube channel? Expect to see more content comi
 
 # taxonomies
 categories:
-  - "QuickRead"
+  - "Quick Read"
 tags:
   - "CNV"
   - "Openshift"

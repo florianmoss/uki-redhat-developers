@@ -6,6 +6,7 @@ theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
+pygmentsUseClasses=true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

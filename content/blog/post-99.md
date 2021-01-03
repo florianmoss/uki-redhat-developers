@@ -11,7 +11,7 @@ description: "Get it in your diary! Quarkus, Open Data Hub and Serverless talks 
 
 # taxonomies
 categories:
-  - "QuickRead"
+  - "Quick Read"
 tags:
   - "Serverless"
   - "kNative"

@@ -11,7 +11,7 @@ description: "Got something to write, say or hear? Let us know and we can push i
 
 # taxonomies
 categories:
-  - "QuickRead"
+  - "Quick Read"
 tags:
   - "Info"
 
