@@ -13,7 +13,7 @@ type : "contact"
 Welcome to the developer site for the UK and Ireland! Developers are at the heart of everything we do. They are the creative engine of all organisations with which we work, and they turn business ideas into revenue, through the applications they create. 
 
 ### Who we are?
-This UK and Ireland group is a broad collection of develoeprs, architects, consultants, specialists, engineers and more with a broad interest in tools and technologies - ranging from Edge Computing to Home Labs and languages like Java, Python and JavaScript. We all love using, writing and talking about technology and here's the place where we collectively show what we have been talking about. 
+This UK and Ireland group is a broad collection of developers, architects, consultants, specialists, engineers and more with a broad interest in tools and technologies - ranging from Edge Computing to Home Labs and languages like Java, Python and JavaScript. We all love using, writing and talking about technology and here's the place where we collectively show what we have been talking about. 
 
 ### The Mission 
 New technology is great. The problem with new technology is, though, that someone has to discover it first. And then learn and understand it. We want to use this site to make you aware of things we are collectively talking about, great tools and technologies that are out there but also help you to understand them. 
