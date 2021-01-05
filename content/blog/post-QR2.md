@@ -1,5 +1,5 @@
 ---
-title: "Apache Camel - Grabbing a value from JSON"
+title: "Apache Camel - Read a value from JSON"
 date: 2021-01-02
 draft: false
 image: images/post/post-QR2.png
@@ -22,7 +22,7 @@ tags:
   - "CamelK"
 
 # post type
-type: "post"
+type: "quickread"
 
 # EXTERNAL LINK
 internal: "../authors/gcolman/post002_camelJSON"

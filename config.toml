@@ -51,10 +51,15 @@ pygmentsUseClasses=true
   URL = "blog"
   weight = 1
 
+ [[menu.main]]
+  name = "User Groups"
+  URL = "usergroups"
+  weight = 2
+
   [[menu.main]]
   name = "About us"
   URL = "contact"
-  weight = 2
+  weight = 3
 
   # footer menu
   [[menu.footer]]
@@ -102,4 +107,4 @@ link = "https://github.com/openshift"
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/openshift"
+link = "https://twitter.com/hat_uki"
