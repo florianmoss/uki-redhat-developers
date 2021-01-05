@@ -1,6 +1,6 @@
 ---
 title: "Apache Camel - Escaping $ in Groovy"
-date: 2021-01-02
+date: 2021-01-05
 draft: false
 image: images/post/post-QR2.png
 author: "Graeme Colman"
