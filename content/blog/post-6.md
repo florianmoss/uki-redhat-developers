@@ -1,7 +1,7 @@
 ---
 title: "Welcome, UK & Ireland developer community!"
 date: 2020-11-19
-draft: false
+draft: true
 author: "Graeme Colman"
 
 # post thumb
