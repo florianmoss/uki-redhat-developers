@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://ukidevelopers.co.uk"
 languageCode = "en-us"
-title = "Red Hat Developer Advocacy | UK & Ireland"
+title = "UK & Ireland Developers @ Red Hat"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
