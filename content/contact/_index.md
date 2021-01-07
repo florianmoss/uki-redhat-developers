@@ -21,6 +21,9 @@ New technology is great. The problem with new technology is, though, that someon
 ### OpenShift Ireland UserGroup
 Our Irish team runs a quarterly OpenShift UserGroup meetup in Dublin. If you are interested in finding out more or joining the event, have a look [>here<](https://openshift-ireland.com/).
 
+### Disclaimer
+This disclaimer informs readers that the views, thoughts, and opinions expressed in the content of this site belong solely to the author(s), and not necessarily to Red Hat, the author's employer, organization, committee or other group or individual. 
+
 _________________________
 
 _________________________
