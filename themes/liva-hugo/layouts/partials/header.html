@@ -12,7 +12,11 @@
       <div class="collapse navbar-collapse text-center" id="navigation">
         <div class="desktop-view">
           <ul class="navbar-nav mr-auto">
-            <a href="{{ .Site.BaseURL }}"><h4>UK & Ireland Developers @ Red Hat</h4></a>
+            {{ range .Site.Params.social }}
+            <a class="nav-link" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a>
+          {{ end }}
+            <a href="{{ .Site.BaseURL }}" id="headline"><h4>UK & Ireland Developers @ Red Hat</h4></a>
+
           </ul>
         </div>
 

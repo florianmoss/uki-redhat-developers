@@ -23,6 +23,8 @@ pygmentsUseClasses=true
   URL = "plugins/themify-icons/themify-icons.css"
   [[params.plugins.css]]
   URL = "plugins/venobox/venobox.css"
+  [[params.plugins.css]]
+  URL = "plugins/fontawesome/css/all.min.css"
 
   # JS Plugins
   [[params.plugins.js]]
@@ -100,11 +102,16 @@ copyright = ""
 ############################# social site ########################
 
 [[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/openshift"
+title = "twitch"
+icon = "fab fa-twitch" # themify icon : https://themify.me/themify-icons
+link = "https://www.twitch.tv/ukidevelopersredhat"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter" # themify icon : https://themify.me/themify-icons
 link = "https://twitter.com/hat_uki"
+
+[[params.social]]
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UCpx4PZ7x9g3c8pLQ8b8rnHw"
