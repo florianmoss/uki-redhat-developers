@@ -52,8 +52,8 @@ pygmentsUseClasses=true
   weight = 1
 
  [[menu.main]]
-  name = "User Groups"
-  URL = "usergroups"
+  name = "Quick Reads"
+  URL = "categories/quick-read"
   weight = 2
 
   [[menu.main]]
