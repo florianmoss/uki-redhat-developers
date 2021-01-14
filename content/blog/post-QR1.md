@@ -19,5 +19,5 @@ tags:
 type: "quickread"
 
 # EXTERNAL LINK
-external: "mailto:gcolman@redhat.com?subject=UKIDevelopers Content"
+external: "mailto:admin@ukidevelopers.co.uk?subject=UKIDevelopers Content"
 ---
