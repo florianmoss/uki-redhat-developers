@@ -20,7 +20,7 @@ The ethos of our group is that it's owned by users, customers and partners or an
 
 We are currently kicking off with virtual events that we hope are short and useful! What we are really looking forward to is the time when we can get together with pizza, beer and good conversation! Until then, here's our schedule of virtual meetups.
 
-| Tuesday 26th February        |  [register here](../registrationpages/register_feb2021)          |        |
+| Thursday 25th February        |  [register here](../registrationpages/register_feb2021)          |        |
 | ------------- |---------------| ----------|
 | **View from product management.** Whats new in OpenShift 4.6 and what are we working on.     | **Duncan Hardie**, OpenShift Principal Product Manager, Red Hat OpenShift  | 30 mins |
 | **OpenShift Virtualisation.** Running minesweeper on Windows on OpenShift!       | **Ian (Uth) Lawson**, Openshift Solution Architect and Evangelist, Red Hat      |  30 mins  |

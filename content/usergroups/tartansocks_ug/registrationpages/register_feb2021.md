@@ -1,5 +1,5 @@
 ---
-title: "Tartan SOCKS Tuesday February 25th 4pm-6pm GMT"
+title: "Tartan SOCKS Thursday February 25th 4pm-6pm GMT"
 author: "Graeme Colman"
 date: 2021-01-14T13:49:23+06:00
 draft: false
