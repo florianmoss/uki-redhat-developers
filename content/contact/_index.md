@@ -18,9 +18,6 @@ This UK and Ireland group is a broad collection of developers, architects, consu
 ### The Mission 
 New technology is great. The problem with new technology is, though, that someone has to discover it first. And then learn and understand it. We want to use this site to make you aware of things we are collectively talking about, great tools and technologies that are out there but also help you to understand them. 
 
-### OpenShift Ireland UserGroup
-Our Irish team runs a quarterly OpenShift UserGroup meetup in Dublin. If you are interested in finding out more or joining the event, have a look [>here<](https://openshift-ireland.com/).
-
 ### Disclaimer
 This disclaimer informs readers that the views, thoughts, and opinions expressed in the content of this site belong solely to the author(s), and not necessarily to Red Hat, the author's employer, organization, committee or other group or individual. 
 
