@@ -17,7 +17,7 @@ tags:
   - "Introduction"
 
 # post type
-type: "featured"
+type: "post"
 
 external: "/contact"
 ---

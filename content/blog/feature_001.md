@@ -1,11 +1,11 @@
 
 --- 
 
-title: "Tartan SOCKS (Scottish OpenShift, Containers and Kubernetes)"
+title: "Tartan SOCKS - Scottish OpenShift, Containers and Kubernetes"
 date: 2021-01-27
 draft: false
 author: "Graeme Colman"
-image: "/images/UGTartan.png"
+image: "images/UGTartan.png"
 categories:
 - "Openshift"
 tags:
