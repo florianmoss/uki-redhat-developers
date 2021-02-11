@@ -22,9 +22,10 @@ We are currently kicking off with virtual events that we hope are short and usef
 
 **NEXT MEETING**
 
-| Thursday 25th February        |  [please register here](https://events.redhat.com/profile/form/index.cfm?PKformID=0x309682abcd)          |        |
+| Thursday 25th February        |  [REGISTER HERE](https://events.redhat.com/profile/form/index.cfm?PKformID=0x309682abcd)          |        
 | ------------- |---------------| ----------|
 | **View from product management.** Whats new in OpenShift 4.7 and what are we working on.     | **Duncan Hardie**, OpenShift Principal Product Manager, Red Hat OpenShift  | 30 mins |
-| **OpenShift Virtualisation.** Running minesweeper on Windows on OpenShift!       | **Ian (Uth) Lawson**, Openshift Solution Architect and Evangelist, Red Hat      |  30 mins  |
-| **Open speaker slot.** Hear from the coalface, users talking abouit OpenShift in practice | **TBA**     |    30 mins |
-| **General Q&A** | Time for us to all talk about any subject!      |    30 mins |
+| **Running minesweeper on Windows on OpenShift** A quick demo and overview of how easy it is to get a Windows VM/workload running as a VM/Container on OpenShift Virtualisation, which is a core and included component of the OpenShift product from Red Hat.       | **Ian (Uth) Lawson**, Openshift Solution Architect and Evangelist, Red Hat      |  30 mins  |
+| **Kubernetes Patterns** Bilgin, the autor of Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications will talk about some common and interesting patterns for developers. | **Bilgin Ibryam**, Author and product manager at Red Hat     |    30 mins |
+| 
+
