@@ -20,9 +20,9 @@ The ethos of our group is that it's owned by users, customers and partners or an
 
 We are currently kicking off with virtual events that we hope are short and useful! What we are really looking forward to is the time when we can get together with pizza, beer and good conversation! Until then, here's our schedule of virtual meetups.
 
-## [Register for Next Meeting](https://events.redhat.com/profile/form/index.cfm?PKformID=0x309682abcd)
+### Next Meeting 25th Feb, 4pm - [Register Here](https://events.redhat.com/profile/form/index.cfm?PKformID=0x309682abcd)
 
-| Thursday 25th February        |           |        
+|     Sessions   |           |        
 | ------------- |---------------| ----------|
 | **View from product management.** Whats new in OpenShift 4.7 and what are we working on.     | **Duncan Hardie** | 30 mins |
 | **Running minesweeper on Windows on OpenShift.** A quick demo and overview of how easy it is to get a Windows VM/workload running as a VM/Container on OpenShift Virtualisation, which is a core and included component of the OpenShift product from Red Hat.       | **Ian (Uth) Lawson**     |  30 mins  |
