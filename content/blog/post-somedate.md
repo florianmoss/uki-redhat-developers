@@ -1,7 +1,7 @@
 --- 
 title: "Your title"
 
-date: current date in format: yyyy-mm-dd
+date: "2021-12-12"
 
 draft: false
 
