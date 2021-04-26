@@ -10,7 +10,7 @@ categories:
 - "Openshift"
 tags:
 - "Openshift"
-type: "featured"
+type: "post"
 external: "https://ukidevelopers.co.uk/usergroups/tartansocks_ug/tartansocks/"
 # meta description
 description: "The the Scottish OpenShift, Containers and Kubernetes user group is having their first meetup on 25th February! Take a look at the agenda here "
